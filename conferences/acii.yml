@@ -9,3 +9,15 @@
   start: 2023-09-10
   end: 2023-09-13
   sub: HCI
+
+- title: ACII
+  year: 2024
+  id: acii2024
+  link: https://acii-conf.net/2024/calls/papers/
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-12
+  place: Glasgow, UK
+  date: September, 16-18, 2024
+  start: 2024-09-16
+  end: 2024-09-18
+  sub: HCI

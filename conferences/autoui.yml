@@ -8,6 +8,18 @@
   date: September, 18-21, 2023
   start: 2023-09-18
   end: 2023-09-21
-  hindex: 33
   sub: HCI
   note: Mandatory abstract deadline on April 12, 2023.
+
+- title: AutoUI
+  year: 2024
+  id: autoui24
+  link: https://www.auto-ui.org/24/
+  deadline: '2024-04-17 23:59:59'
+  timezone: UTC-12
+  place: Stanford, CA, USA
+  date: September, 22-25, 2024
+  start: 2024-09-22
+  end: 2024-09-25
+  sub: HCI
+  note: Mandatory abstract deadline on April 10, 2024.

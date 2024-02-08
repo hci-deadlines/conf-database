@@ -8,5 +8,16 @@
   date: October, 23-25, 2023
   start: 2023-10-23
   end: 2023-10-25
-  hindex: -1
+  sub: HCI
+
+- title: ASSETS
+  year: 2024
+  id: assets24
+  link: https://assets24.sigaccess.org
+  deadline: '2024-04-24 23:59:59'
+  timezone: UTC-12
+  place: St Johns, Newfoundland and Labrador, Canada
+  date: October, 27-30, 2024
+  start: 2024-10-27
+  end: 2024-10-30
   sub: HCI
