@@ -8,5 +8,17 @@
   date: September, 26-29, 2023
   start: 2023-09-26
   end: 2023-09-29
-  hindex: -1
   sub: HCI
+
+- title: MobileHCI
+  year: 2024
+  id: mobilehci24
+  link: https://mobilehci.acm.org/2024/callforpapers.php
+  deadline: '2024-02-21 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: September 30 - October 3, 2024
+  start: 2024-09-30
+  end: 2024-10-03
+  sub: HCI
+  note: Mandatory abstract deadline on February 14, 2024.

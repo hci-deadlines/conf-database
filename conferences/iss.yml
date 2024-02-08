@@ -21,3 +21,15 @@
   start: 2023-11-05
   end: 2023-11-08
   sub: HCI
+
+- title: ISS (February round)
+  year: 2024
+  id: iss24a
+  link: https://iss2024.acm.org/track/iss-2024-papers
+  deadline: '2024-02-22 23:59:59'
+  timezone: UTC-12
+  place: Seattle, United States
+  date: October, 27-30, 2024
+  start: 2024-10-27
+  end: 2024-10-30
+  sub: HCI
