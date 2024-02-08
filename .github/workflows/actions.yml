@@ -1,0 +1,30 @@
+name: autogenerate-conferences
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkoput code
+        uses: actions/checkout@v4
+
+      - name: run merge script
+        run: bash ${PWD}/merge.sh
+
+      - name: Pushes to hci-deadlines
+        uses: dmnemec/copy_file_to_another_repo_action@gh-pages
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'autogen-conferences.yml'
+          destination_repo: 'hci-deadlines/hci-deadlines.github.io'
+          destination_folder: '_data'
+          user_email: 'andrea@kaist.ac.kr'
+          user_name: 'makinteract'
+          commit_message: 'Updated conferences'
+
+      # - name: test
+      #   run: ls ${PWD}
