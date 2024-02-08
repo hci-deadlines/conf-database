@@ -15,11 +15,12 @@ jobs:
         run: bash ${PWD}/merge.sh
 
       - name: Pushes to hci-deadlines
-        uses: dmnemec/copy_file_to_another_repo_action@gh-pages
+        uses: dmnemec/copy_file_to_another_repo_action@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source_file: 'autogen-conferences.yml'
+          destination_branch: 'gh-pages'
           destination_repo: 'hci-deadlines/hci-deadlines.github.io'
           destination_folder: '_data'
           user_email: 'andrea@kaist.ac.kr'
