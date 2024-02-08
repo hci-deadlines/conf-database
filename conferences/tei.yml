@@ -1,0 +1,23 @@
+- title: TEI
+  year: 2023
+  id: tei23
+  link: https://tei.acm.org/2023/participate/paper/
+  deadline: '2022-08-05 23:59:59'
+  timezone: UTC-12
+  place: Warsaw, Poland
+  date: February, 26 - March 1, 2023
+  start: 2023-02-26
+  end: 2023-03-01
+  sub: HCI
+
+- title: TEI
+  year: 2024
+  id: tei24
+  link: https://tei.acm.org/2024/index.php/call-for-papers/
+  deadline: '2023-07-25 23:59:59'
+  timezone: UTC-12
+  place: Cork, Ireland
+  date: February, 11-14, 2024
+  start: 2024-02-11
+  end: 2024-02-14
+  sub: HCI

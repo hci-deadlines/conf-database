@@ -26,6 +26,3 @@ jobs:
           user_email: 'andrea@kaist.ac.kr'
           user_name: 'makinteract'
           commit_message: 'Updated conferences'
-
-      # - name: test
-      #   run: ls ${PWD}

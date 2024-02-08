@@ -1,0 +1,36 @@
+- title: CSCW
+  year: 2023
+  id: cscw23
+  link: https://cscw.acm.org/2023
+  deadline: '2023-01-15 23:59:59'
+  timezone: UTC-12
+  place: Minneapolis, MN, USA
+  date: October, 14-18, 2023
+  start: 2023-10-14
+  end: 2023-10-18
+  hindex: 48
+  sub: CSCW
+
+- title: CSCW (July cycle)
+  year: 2024
+  id: cscw24_july
+  link: https://cscw.acm.org/2024/index.php/submit-papers/
+  deadline: '2023-07-18 23:59:59'
+  timezone: UTC-12
+  place: San José, Costa Rica
+  date: November, 9-13, 2024
+  start: 2024-11-09
+  end: 2024-11-13
+  sub: CSCW
+
+- title: CSCW (January cycle)
+  year: 2024
+  id: cscw24_january
+  link: https://cscw.acm.org/2024/index.php/submit-papers/
+  deadline: '2024-01-16 23:59:59'
+  timezone: UTC-12
+  place: San José, Costa Rica
+  date: November, 9-13, 2024
+  start: 2024-11-09
+  end: 2024-11-13
+  sub: CSCW

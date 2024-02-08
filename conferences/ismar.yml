@@ -1,0 +1,25 @@
+- title: ISMAR (Journal Papers)
+  year: 2023
+  id: ismar23j
+  link: https://ismar23.org/call-for-journal-papers/
+  deadline: '2023-03-25 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: October, 16-20, 2023
+  start: 2023-10-16
+  end: 2023-10-20
+  sub: XR
+  note: Mandatory abstract deadline on March 19, 2023.
+
+- title: ISMAR (Conference Papers)
+  year: 2023
+  id: ismar23c
+  link: https://ismar23.org/call-for-conference-papers/
+  deadline: '2023-06-12 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: October, 16-20, 2023
+  start: 2023-10-16
+  end: 2023-10-20
+  sub: XR
+  note: Mandatory abstract deadline on June 5, 2023.

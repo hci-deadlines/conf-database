@@ -1,0 +1,26 @@
+- title: DIS
+  year: 2023
+  id: dis23
+  link: https://dis.acm.org/2023/
+  deadline: '2023-02-13 23:59:59'
+  timezone: UTC-12
+  place: Pittsburgh, Pennsylvania, USA
+  date: July, 10-14, 2023
+  start: 2023-07-10
+  end: 2023-07-14
+  hindex: 41
+  sub: DES
+
+- title: DIS
+  year: 2024
+  id: dis24
+  link: https://dis.acm.org/2024/
+  deadline: '2024-02-08 23:59:59'
+  abstract_deadline: '2024-02-01 23:59:59'
+  timezone: UTC-12
+  place: Copenhagen, Denmark
+  date: July, 1-5, 2024
+  start: 2024-07-01
+  end: 2024-07-05
+  sub: DES
+  note: Mandatory abstract deadline on February 1, 2024.
