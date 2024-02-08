@@ -11,3 +11,17 @@
   end: 2023-06-15
   sub: HCI
   note: Mandatory abstract deadline on January 30, 2023.
+
+- title: FAccT
+  year: 2024
+  id: facct24
+  link: https://facctconference.org/2024/cfp.html
+  deadline: '2024-01-22 23:59:59'
+  abstract_deadline: '2024-01-15 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: June, 3-6, 2024
+  start: 2024-06-03
+  end: 2024-06-06
+  sub: HCI
+  note: Mandatory abstract deadline on January 15, 2024.
