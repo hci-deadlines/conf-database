@@ -17,7 +17,7 @@ jobs:
       - name: Pushes to hci-deadlines
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
         with:
           source_file: 'autogen-conferences.yml'
           destination_branch: 'gh-pages'
