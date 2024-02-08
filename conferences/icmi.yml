@@ -9,3 +9,17 @@
   start: 2023-10-9
   end: 2023-10-13
   sub: HCI
+
+- title: ICMI
+  year: 2024
+  id: icmi2024
+  link: https://icmi.acm.org/2024/call-for-papers/
+  deadline: '2024-05-03 23:59:59'
+  timezone: UTC-12
+  place: San José, Costa Rica
+  date: November, 4-8, 2024
+  start: 2024-11-04
+  end: 2024-11-08
+  sub: HCI
+  abstract_deadline: '2023-04-26 23:59:59'
+  note: Mandatory abstract deadline on April 26, 2024.
