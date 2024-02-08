@@ -19,7 +19,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
         with:
-          source_file: 'autogen-conferences.yml'
+          source_file: 'conferences.yml'
           destination_branch: 'gh-pages'
           destination_repo: 'hci-deadlines/hci-deadlines.github.io'
           destination_folder: '_data'
