@@ -9,3 +9,15 @@
   start: 2023-10-10
   end: 2023-10-13
   sub: HCI
+
+- title: CHI PLAY
+  year: 2024
+  id: chiplay24
+  link: https://chiplay.acm.org/2024/
+  deadline: '2024-02-21 23:59:59'
+  timezone: UTC-12
+  place: Tampere, Finland
+  date: October, 14-17, 2024
+  start: 2024-10-14
+  end: 2024-10-17
+  sub: HCI
