@@ -8,5 +8,16 @@
   date: July, 10-13, 2023
   start: 2023-07-10
   end: 2023-07-13
-  hindex: -1
+  sub: HAP
+
+- title: World Haptics
+  year: 2025
+  id: wh25
+  link: https://2025.worldhaptics.org
+  deadline: 'TBD'
+  timezone: UTC-8
+  place: Suwon, Korea
+  date: July, 8-11, 2025
+  start: 2025-07-08
+  end: 2025-07-11
   sub: HAP
