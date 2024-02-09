@@ -10,3 +10,16 @@
   end: 2023-10-11
   sub: XR
   note: Mandatory abstract deadline on June 12, 2023.
+
+- title: VRST
+  year: 2024
+  id: vrst24
+  link: https://vrst.acm.org/vrst2024/
+  deadline: 'TBD'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: October, 9-11, 2024
+  start: 2024-10-09
+  end: 2024-10-11
+  sub: XR
+  # note: Mandatory abstract deadline on June 12, 2024.
