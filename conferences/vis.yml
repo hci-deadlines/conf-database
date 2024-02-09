@@ -8,6 +8,18 @@
   date: October, 22-27, 2023
   start: 2023-10-22
   end: 2023-10-27
-  hindex: 148
   sub: VIS
   note: Mandatory abstract deadline on March 21, 2023.
+
+- title: VIS
+  year: 2024
+  id: vis24
+  link: https://ieeevis.org/year/2024/info/call-participation/call-for-participation
+  deadline: '2024-03-31 23:59:59'
+  timezone: UTC-12
+  place: St. Pete Beach, Florida
+  date: October, 13-18, 2024
+  start: 2024-10-13
+  end: 2024-10-18
+  sub: VIS
+  note: Mandatory abstract deadline on March 21, 2024.
