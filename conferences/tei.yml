@@ -27,6 +27,7 @@
   id: tei25
   link: https://tei.acm.org/2025/participate/papers
   deadline: '2024-08-01 23:59:59'
+  abstract_deadline: '2024-07-25 23:59:59'
   timezone: UTC-12
   place: Bordeaux, France
   date: March, 4-7, 2025
