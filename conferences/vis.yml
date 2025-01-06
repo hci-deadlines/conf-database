@@ -36,3 +36,16 @@
   end: 2024-10-18
   sub: VIS
   note: Short papers deadeline, no abstract deadline.
+
+- title: VIS
+  year: 2025
+  id: vis25
+  link: https://ieeevis.org/year/2025/info/call-participation/call-for-participation
+  deadline: '2025-03-31 23:59:59'
+  abstract_deadline: '2025-03-21 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: November, 2-7, 2025
+  start: 2025-11-02
+  end: 2025-11-07
+  sub: VIS

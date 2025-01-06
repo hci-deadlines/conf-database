@@ -22,3 +22,16 @@
   end: 2024-11-08
   sub: HCI
   abstract_deadline: '2023-04-26 23:59:59'
+
+- title: ICMI
+  year: 2025
+  id: icmi2025
+  link: https://icmi.acm.org/2025/call-for-papers/
+  deadline: '2025-04-25 23:59:59'
+  abstract_deadline: '2025-04-18 23:59:59'
+  timezone: UTC-12
+  place: Canberra, Australia
+  date: October, 13-17, 2025
+  start: 2025-10-13
+  end: 2025-10-17
+  sub: HCI
