@@ -21,3 +21,15 @@
   start: 2024-09-16
   end: 2024-09-18
   sub: HCI
+
+- title: ACII
+  year: 2025
+  id: acii2025
+  link: https://acii-conf.net/2025/call-for-papers/
+  deadline: '2025-03-31 23:59:59'
+  timezone: UTC-12
+  place: Canberra, Australia
+  date: October, 8-11, 2025
+  start: 2025-10-08
+  end: 2025-10-11
+  sub: HCI
