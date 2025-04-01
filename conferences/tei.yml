@@ -34,3 +34,16 @@
   start: 2025-03-04
   end: 2025-03-07
   sub: HCI
+
+- title: TEI
+  year: 2026
+  id: tei26
+  link: https://tei.acm.org/2026/participate/papers/
+  deadline: '2025-08-07 23:59:59'
+  abstract_deadline: '2025-07-31 23:59:59'
+  timezone: UTC-12
+  place: Chicago, Illinois, USA
+  date: March, 8-11, 2026
+  start: 2026-03-08
+  end: 2026-03-11
+  sub: HCI
