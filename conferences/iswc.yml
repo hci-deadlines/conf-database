@@ -21,3 +21,15 @@
   start: 2024-10-05
   end: 2024-10-09
   sub: HCI
+
+- title: ISWC Notes & Brief
+  year: 2025
+  id: iswc25
+  link: https://www.ubicomp.org/ubicomp-iswc-2025/authors/
+  deadline: '2025-05-18 23:59:59'
+  timezone: UTC-12
+  place: Espoo, Finland
+  date: October, 14-16, 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  sub: HCI
