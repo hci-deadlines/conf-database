@@ -21,3 +21,15 @@
   start: 2024-10-07
   end: 2024-10-08
   sub: HCI
+
+- title: SUI
+  year: 2025
+  id: sui25
+  link: https://sui.acm.org/2025/call-for-participation/
+  deadline: '2025-06-10 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: November, 10-11, 2025
+  start: 2025-11-10
+  end: 2025-11-11
+  sub: HCI
