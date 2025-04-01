@@ -23,3 +23,16 @@
   start: 2024-10-09
   end: 2024-10-11
   sub: XR
+
+- title: VRST
+  year: 2025
+  id: vrst25
+  link: https://vrst.acm.org/vrst2025/
+  deadline: '2025-06-14 23:59:59'
+  abstract_deadline: '2025-06-07 23:59:59'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: November, 12-14, 2025
+  start: 2025-11-12
+  end: 2025-11-14
+  sub: XR
