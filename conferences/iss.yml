@@ -41,4 +41,12 @@
   deadline: '2025-03-14 23:59:59'
   timezone: UTC-12
   place: N/A (conference postponed to 2026)
+
+- title: ISS (Second round)
+  year: 2025
+  id: iss25b
+  link: https://iss.acm.org/2025/authors/papers/
+  deadline: '2025-07-25 23:59:59'
+  timezone: UTC-12
+  place: N/A (conference postponed to 2026)
   sub: HCI
