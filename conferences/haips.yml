@@ -1,0 +1,12 @@
+- title: HAIPS
+   year: 2025
+   id: haips25
+   full_name: 1st Workshop on Human-Centered AI Privacy and Security
+   link: https://haips.com
+   deadline: 2025-06-20 23:59
+   timezone: UTC-12
+   place: Taipei, Taiwan
+   date: October, 17, 2025
+   paperslink: https://haips.com
+   sub: ['AI', 'SP', 'HCI']
+   note: co-located with ACM CCS 2025
