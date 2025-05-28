@@ -14,7 +14,7 @@
 - title: VIS
   year: 2024
   id: vis24
-  link: https://ieeevis.org/year/2024/info/call-participation/call-for-participation
+  link: https://ieeevis.org/year/2024/welcome
   deadline: '2024-03-31 23:59:59'
   timezone: UTC-12
   place: St. Pete Beach, Florida
@@ -27,7 +27,7 @@
 - title: VIS
   year: 2024
   id: vis24Short
-  link: https://ieeevis.org/year/2024/info/call-participation/shortpapers
+  link: https://ieeevis.org/year/2024/welcome
   deadline: '2024-04-30 23:59:59'
   timezone: UTC-12
   place: St. Pete Beach, Florida
@@ -40,7 +40,7 @@
 - title: VIS
   year: 2025
   id: vis25
-  link: https://ieeevis.org/year/2025/info/call-participation/call-for-participation
+  link: https://ieeevis.org/year/2025/welcome
   deadline: '2025-03-31 23:59:59'
   abstract_deadline: '2025-03-21 23:59:59'
   timezone: UTC-12
