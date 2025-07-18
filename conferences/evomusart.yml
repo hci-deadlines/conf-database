@@ -13,3 +13,17 @@
   paperslink: https://evomusart-index.dei.uc.pt/
   sub: ['AI', 'DES', 'VIS', 'CSCW']
   note: part of evostar 2025
+
+- title: evoMUSART
+  year: 2026
+  id: evomusart26
+  full_name: evomusart 2026
+  link: https://www.evostar.org/2026/evomusart/
+  deadline: 2025-11-01 23:59
+  timezone: UTC-12
+  place: Toulouse, France
+  date: April, 8-10, 2026
+  start: 2026-04-08
+  end: 2026-04-10
+  sub: ['AI', 'DES', 'VIS', 'CSCW']
+  note: part of evostar 2026

@@ -62,3 +62,42 @@
   start: 2025-06-24
   end: 2025-06-28
   sub: HCI
+
+- title: EICS PACM (Round 1)
+  year: 2026
+  id: eics26_1
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2026/
+  deadline: '2025-07-25 23:59:59'
+  timezone: UTC-12
+  place: Patras, Greece
+  date: June 30 - July 3, 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  sub: HCI
+
+- title: EICS PACM (Round 2)
+  year: 2026
+  id: eics26_2
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2026/
+  deadline: '2025-10-24 23:59:59'
+  timezone: UTC-12
+  place: Patras, Greece
+  date: June 30 - July 3, 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  sub: HCI
+
+- title: EICS PACM (Round 3)
+  year: 2026
+  id: eics26_3
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2026/
+  deadline: '2026-02-13 23:59:59'
+  timezone: UTC-12
+  place: Patras, Greece
+  date: June 30 - July 3, 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  sub: HCI

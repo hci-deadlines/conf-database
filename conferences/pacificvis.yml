@@ -27,3 +27,18 @@
   end: 2025-04-25
   sub: VIS
   note: Conference paper track
+
+- title: IEEE PacificVis
+  year: 2026
+  id: pacificvis26
+  full_name: IEEE Pacific Visualization Symposium
+  link: https://pacificvis2026.github.io/common-call-for-papers.html
+  deadline: '2025-09-07 23:59:59'
+  abstract_deadline: '2025-09-01 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: April, 20-23, 2026
+  start: 2026-04-20
+  end: 2026-04-23
+  sub: VIS
+  note: Conference paper track

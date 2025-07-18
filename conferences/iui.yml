@@ -1,4 +1,17 @@
 - title: IUI
+  year: 2026
+  id: iui26
+  link: https://iui.hosting.acm.org/2026/call-for-papers/
+  deadline: '2025-10-10 23:59:59'
+  abstract_deadline: '2025-10-03 23:59:59'
+  timezone: UTC-12
+  place: Paphos, Cyprus
+  date: March 23-26, 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  sub: HCI
+
+- title: IUI
   year: 2025
   id: iui25
   link: https://iui.acm.org/2025/call_for_papers.html

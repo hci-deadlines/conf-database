@@ -18,6 +18,18 @@
   timezone: UTC-12
   place: Abu Dhabi, United Arab Emirates
   date: March, 12-20, 2025
-  start: 2025-03-16
-  end: 2025-03-25
+  start: 2025-03-12
+  end: 2025-03-20
+  sub: HCI
+
+- title: Augmented Humans
+  year: 2026
+  id: ah26
+  link: https://augmented-humans.org/calls-for-participation/
+  deadline: '2025-11-18 23:59:59'
+  timezone: UTC-12
+  place: Okinawa, Japan
+  date: March, 16-19, 2026
+  start: 2026-03-16
+  end: 2026-03-19
   sub: HCI
