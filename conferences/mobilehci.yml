@@ -35,3 +35,16 @@
   start: 2025-09-22
   end: 2025-09-26
   sub: HCI
+
+- title: MobileHCI
+  year: 2026
+  id: mobilehci26
+  link: https://mobilehci.acm.org/2026/submit/papers.html
+  deadline: '2026-01-29 23:59:59'
+  abstract_deadline: '2026-01-22 23:59:59'
+  timezone: UTC-12
+  place: Swansea, Wales, United Kingdom
+  date: August 31 - September 03, 2025
+  start: 2026-08-31
+  end: 2026-09-03
+  sub: HCI
