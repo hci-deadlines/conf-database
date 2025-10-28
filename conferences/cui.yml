@@ -39,3 +39,17 @@
   start: 2025-07-08
   end: 2025-07-10
   sub: HCI
+
+- title: CUI
+  year: 2026
+  id: cui26
+  full_name: Conversational User Interfaces
+  link: https://cui.acm.org/2026/
+  deadline: '2026-03-05 23:59:59'
+  abstract_deadline: '2026-02-26 23:59:59'
+  timezone: UTC-12
+  place: Bremen, Germany
+  date: July, 21–24, 2026
+  start: 2026-07-21
+  end: 2026-07-24
+  sub: HCI

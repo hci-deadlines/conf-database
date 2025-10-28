@@ -11,3 +11,17 @@
   start: 2025-06-23
   end: 2025-06-25
   sub: HCI
+
+- title: CC
+  year: 2026
+  id: cc26
+  full_name: Creativity & Cognition
+  link: https://cc.acm.org/2026/
+  deadline: '2026-02-05 23:59:59'
+  abstract_deadline: '2026-01-29 23:59:59'
+  timezone: UTC-12
+  place: Online
+  date: July, 13-16, 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  sub: HCI
