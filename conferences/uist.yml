@@ -36,3 +36,17 @@
   start: 2025-09-28
   end: 2025-10-01
   sub: HCI
+
+- title: UIST
+  year: 2026
+  id: uist26
+  link: https://uist.acm.org/2026
+  deadline: '2026-03-31 23:59:59'
+  abstract_deadline: '2026-03-24 23:59:59'
+  timezone: UTC-12
+  place: Detroit, USA
+  date: November 2nd - November 5th, 2026
+  start: 2026-11-02
+  end: 2026-11-05
+  sub: HCI
+  note: Deadlines are all tentative as of November 2025.
