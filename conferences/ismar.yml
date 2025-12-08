@@ -53,7 +53,7 @@
 - title: ISMAR
   year: 2025
   id: ismar25
-  link: https://www.ieeeismar.net/2025/
+  link: https://www.ieeeismar.net/2025/contribute/papers/
   deadline: '2025-04-11 23:59:59'
   abstract_deadline: '2025-04-04 23:59:59'
   timezone: UTC-12
@@ -66,7 +66,7 @@
 - title: ISMAR
   year: 2026
   id: ismar26
-  link: https://www.ieeeismar.net/2026/
+  link: https://www.ieeeismar.net/2026/contribute/papers/
   deadline: '2026-03-16 23:59:59'
   abstract_deadline: '2026-03-09 23:59:59'
   timezone: UTC-12
