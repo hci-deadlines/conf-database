@@ -23,3 +23,29 @@
   end: 2025-05-29
   hindex: 56
   sub: HCI
+
+- title: Graphics Interface (January round)
+  year: 2026
+  id: gi26jan
+  link: https://conferences.graphicsinterface.org/2026/
+  deadline: "2026-01-30 23:59:59"
+  timezone: UTC-12
+  place: Kitchner-Waterloo, Ontario, Canada
+  date: June, 09-12, 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  hindex: 56
+  sub: HCI
+
+- title: Graphics Interface (March round)
+  year: 2026
+  id: gi26mar
+  link: https://conferences.graphicsinterface.org/2026/
+  deadline: "2026-03-02 23:59:59"
+  timezone: UTC-12
+  place: Kitchner-Waterloo, Ontario, Canada
+  date: June, 09-12, 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  hindex: 56
+  sub: HCI
