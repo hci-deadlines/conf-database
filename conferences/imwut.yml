@@ -108,3 +108,39 @@
   start: 2025-10-14
   end: 2025-10-16
   sub: HCI
+
+- title: Ubicomp/ISWC (IMWUT Issue 1)
+  year: 2026
+  id: imwut26_1
+  link: https://www.ubicomp.org/ubicomp-iswc-2026/imwut-papers/
+  deadline: "2025-11-01 23:59:59"
+  timezone: UTC-12
+  place: Shanghai, China
+  date: October, 13-15, 2026
+  start: 2025-10-13
+  end: 2025-10-15
+  sub: HCI
+
+- title: Ubicomp/ISWC (IMWUT Issue 2)
+  year: 2026
+  id: imwut26_2
+  link: https://www.ubicomp.org/ubicomp-iswc-2026/imwut-papers/
+  deadline: "2026-02-01 23:59:59"
+  timezone: UTC-12
+  place: Shanghai, China
+  date: October, 13-15, 2026
+  start: 2025-10-13
+  end: 2025-10-15
+  sub: HCI
+
+- title: Ubicomp/ISWC (IMWUT Issue 3)
+  year: 2026
+  id: imwut26_3
+  link: https://www.ubicomp.org/ubicomp-iswc-2026/imwut-papers/
+  deadline: "2026-05-01 23:59:59"
+  timezone: UTC-12
+  place: Shanghai, China
+  date: October, 13-15, 2026
+  start: 2025-10-13
+  end: 2025-10-15
+  sub: HCI
