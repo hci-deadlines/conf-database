@@ -36,3 +36,16 @@
   start: 2025-09-20
   end: 2025-09-24
   sub: HCI
+
+- title: AutoUI
+  year: 2026
+  id: autoui26
+  link: https://www.auto-ui.org/26/papers/
+  deadline: "2026-04-09 23:59:59"
+  abstract_deadline: "2025-04-02 23:59:59"
+  timezone: UTC-12
+  place: Gothenburg, Sweden
+  date: September, 20-23, 2026
+  start: 2026-09-20
+  end: 2026-09-23
+  sub: HCI
