@@ -1,0 +1,14 @@
+- title: NIME
+  year: 2026
+  id: nime26
+  full_name: International Conference on New Interfaces for Musical Expression
+  link: https://nime2026.org/
+  deadline: '2026-02-12 23:59:59'
+  abstract_deadline: '2026-02-05 23:59:59'
+  timezone: UTC-12
+  place: London, UK
+  date: June, 24-26, 2026
+  start: 2026-06-24
+  end: 2026-06-26
+  sub: ['HCI', 'MUSIC']
+  note: NIME 2026 abstract deadline Feb 5, 2026 and full submission deadline Feb 12, 2026 (AoE).

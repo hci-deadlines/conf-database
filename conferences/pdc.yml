@@ -1,0 +1,14 @@
+- title: ACM PDC
+  year: 2026
+  id: pdc26
+  full_name: ACM Participatory Design Conference
+  link: https://www.pdc2026.polimi.it/calls/
+  deadline: '2025-06-16 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Milan, Italy
+  date: June, 15-19, 2026
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: ['HCI', 'DES', 'CSCW']
+  note: Latest official PDC 2026 call information indicates full-paper deadline June 16, 2025.

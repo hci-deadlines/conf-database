@@ -1,0 +1,29 @@
+- title: ACM SIGGRAPH
+  year: 2026
+  id: siggraph26
+  full_name: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques
+  link: https://s2026.siggraph.org/
+  deadline: '2026-01-22 10:00:00'
+  abstract_deadline: '2026-01-15 10:00:00'
+  timezone: UTC-12
+  place: Los Angeles, CA, USA
+  date: July, 19-23, 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  sub: ['HCI', 'CG']
+  note: Technical Papers deadlines are announced as January 15/22, 2026 at 22:00 UTC (stored here in UTC-12 equivalent).
+
+- title: ACM SIGGRAPH Asia
+  year: 2025
+  id: siggraphasia25
+  full_name: ACM SIGGRAPH Asia Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia
+  link: https://asia.siggraph.org/2025/submissions/technical-papers/
+  deadline: '2025-05-23 23:59:59'
+  abstract_deadline: '2025-05-16 23:59:59'
+  timezone: UTC-12
+  place: Hong Kong
+  date: December, 15-18, 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  sub: ['HCI', 'CG']
+  note: Technical Papers form deadline May 16, 2025; full PDF/assets deadline May 23, 2025.

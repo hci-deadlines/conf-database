@@ -19,10 +19,14 @@ To add or update a deadline:
    | -------------- | ------------------------------------ |
    | HCI            | Human-Computer Interaction           |
    | AI+HCI         | Articial Intelligence and AI         |
+   | CG             | Computer Graphics                    |
    | CSCW           | Computer-supported cooperative work  |
    | DES            | Design                               |
+   | GAMES          | Games                                |
    | HAP            | Haptics                              |
    | HRI            | Human-Robot Interaction              |
+   | MM             | Multimodel / Multimedia              |
+   | MUSIC          | Music                                |
    | SP             | Security and Privacy                 |
    | VIS            | Visualization                        |
    | XR             | Augmented, Virtual and Mixed Reality |

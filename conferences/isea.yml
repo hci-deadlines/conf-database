@@ -1,0 +1,14 @@
+- title: ISEA
+  year: 2026
+  id: isea26
+  full_name: International Symposium on Electronic Art
+  link: https://isea-international.org/
+  deadline: '2025-12-20 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Dubai, UAE
+  date: April, 10-19, 2026
+  start: 2026-04-10
+  end: 2026-04-19
+  sub: ['DES', 'VIS', 'HCI']
+  note: ISEA2026 announced for Dubai (Apr 10-19, 2026); current official call lists Dec 20, 2025 as key submission deadline.

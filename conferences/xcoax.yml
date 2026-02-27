@@ -1,0 +1,14 @@
+- title: xCoAx
+  year: 2026
+  id: xcoax26
+  full_name: Conference on Computation, Communication, Aesthetics and X
+  link: https://xcoax.org/
+  deadline: '2026-02-15 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Torino, Italy
+  date: July, 8-10, 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  sub: ['DES', 'VIS', 'HCI']
+  note: xCoAx 2026 submissions deadline was extended from Feb 1 to Feb 15, 2026 (AoE).

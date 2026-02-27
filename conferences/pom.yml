@@ -1,0 +1,14 @@
+- title: POM
+  year: 2025
+  id: pom25
+  full_name: Politics of the Machines
+  link: https://pom-conference.org/pom-perth-2025/
+  deadline: '2025-03-29 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Perth, Australia
+  date: July, 16-18, 2025
+  start: 2025-07-16
+  end: 2025-07-18
+  sub: ['DES', 'HCI']
+  note: POM Perth 2025 call for abstracts extended deadline is March 29, 2025.

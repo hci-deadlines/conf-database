@@ -1,0 +1,14 @@
+- title: IEEE CoG
+  year: 2025
+  id: cog25
+  full_name: IEEE Conference on Games
+  link: https://cog2025.inesc-id.pt/call-for-papers/
+  deadline: '2025-03-15 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: August, 26-29, 2025
+  start: 2025-08-26
+  end: 2025-08-29
+  sub: ['HCI', 'AI', 'DES']
+  note: User-requested IEEE GEM mapped to IEEE CoG; full paper deadline March 15, 2025.

@@ -1,0 +1,14 @@
+- title: ArtsIT
+  year: 2026
+  id: artsit26
+  full_name: International Conference on ArtsIT, Interactivity and Game Creation
+  link: https://artsit.eai-conferences.org/2026/
+  deadline: '2026-06-01 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Bratislava, Slovakia
+  date: December, 2-4, 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  sub: ['HCI', 'DES', 'GAMES']
+  note: Official ArtsIT 2026 call lists full-paper submission deadline as June 1, 2026.

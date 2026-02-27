@@ -1,0 +1,14 @@
+- title: IEEE AIA Workshop
+  year: 2025
+  id: aia25
+  full_name: IEEE Workshop on Artificial Intelligence for Art Creation (AIART)
+  link: https://aiart-2025.github.io/
+  deadline: '2025-04-01 23:59:59'
+  abstract_deadline: ""
+  timezone: UTC-12
+  place: Nantes, France
+  date: July, 4, 2025
+  start: 2025-07-04
+  end: 2025-07-04
+  sub: ['AI', 'DES', 'VIS']
+  note: AIART 2025 (jointly with ICME 2025); workshop paper submissions due April 1, 2025.
