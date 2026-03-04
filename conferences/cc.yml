@@ -1,7 +1,7 @@
-- title: CC
+- title: 'ACM Creativity & Cognition (C&C)'
   year: 2025
   id: cc25
-  full_name: Creativity & Cognition
+  full_name: 'ACM Creativity & Cognition Conference'
   link: https://cc.acm.org/2025/
   deadline: '2025-02-06 23:59:59'
   abstract_deadline: '2025-01-30 23:59:59'
@@ -12,15 +12,15 @@
   end: 2025-06-25
   sub: HCI
 
-- title: CC
+- title: 'ACM Creativity & Cognition (C&C)'
   year: 2026
   id: cc26
-  full_name: Creativity & Cognition
+  full_name: 'ACM Creativity & Cognition Conference'
   link: https://cc.acm.org/2026/
   deadline: '2026-02-05 23:59:59'
   abstract_deadline: '2026-01-29 23:59:59'
   timezone: UTC-12
-  place: Online
+  place: London, UK
   date: July, 13-16, 2026
   start: 2026-07-13
   end: 2026-07-16
