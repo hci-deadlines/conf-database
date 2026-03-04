@@ -1,0 +1,14 @@
+- title: ACM Multimedia
+  year: 2026
+  id: acmmm26
+  full_name: ACM International Conference on Multimedia
+  link: https://2026.acmmm.org/
+  deadline: '2026-04-01 23:59:59'
+  abstract_deadline: '2026-03-25 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: November, 10-14, 2026
+  start: 2026-11-10
+  end: 2026-11-14
+  sub: ['HCI', 'MM']
+  note: Main-track abstract registration deadline March 25.
