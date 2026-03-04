@@ -51,8 +51,10 @@
   year: 2026
   id: cscw26
   link: https://cscw.acm.org/2026/papers.html
-  deadline: '2025-05-13 23:59:59'
+  deadline: '2025-05-14 04:00:00'
   timezone: UTC-12
-  place: TBA
-  date: TBA
+  place: Salt Lake City, Utah, USA
+  date: October, 10-14, 2026
+  start: 2026-10-10
+  end: 2026-10-14
   sub: CSCW
