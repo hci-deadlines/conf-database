@@ -1,0 +1,14 @@
+- title: ACM IMX
+  year: 2026
+  id: imx26
+  full_name: ACM International Conference on Interactive Media Experiences
+  link: https://imx.acm.org/2026/authors/important-dates/
+  deadline: '2026-01-22 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Athlone, Ireland
+  date: June, 9-11, 2026
+  start: 2026-06-09
+  end: 2026-06-11
+  sub: ['HCI', 'GM']
+  note: Paper-track submission deadline extended from Jan 15 to Jan 22, 2026; all deadlines are AoE.
