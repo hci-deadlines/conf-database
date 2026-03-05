@@ -29,7 +29,19 @@
   deadline: '2025-04-16 23:59:59'
   timezone: UTC-12
   place: Denver, Colorado, USA
-  date: October 26-29 2025
+  date: October, 26-29 2025
   start: 2025-10-26
   end: 2025-10-29
+  sub: HCI
+
+- title: ASSETS
+  year: 2026
+  id: assets26
+  link: https://assets26.sigaccess.org
+  deadline: '2026-04-22 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: October, 25–28 2026
+  start: 2026-10-25
+  end: 2026-10-28
   sub: HCI
