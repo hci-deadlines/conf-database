@@ -26,6 +26,8 @@ To add or update a deadline:
    | SP             | Security and Privacy                 |
    | VIS            | Visualization                        |
    | XR             | Augmented, Virtual and Mixed Reality |
+   | GM             | Graphics and Multimedia              |
+   | ART            | Art & Music                          |
 
 5. See available timezone strings [here](https://momentjs.com/timezone/). _Anywhere On Earth_ (AoE) is `UTC-12`.
 6. Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
