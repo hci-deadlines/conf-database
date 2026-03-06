@@ -52,6 +52,8 @@ To add or update a deadline:
   note: Important
 ```
 
+The field `note` should be under 80 characters.
+
 7. Send a pull request
 
 ## License
