@@ -36,3 +36,16 @@
   start: 2025-11-12
   end: 2025-11-14
   sub: XR
+
+- title: VRST
+  year: 2026
+  id: vrst26
+  link: https://vrst.acm.org/vrst2026/
+  abstract_deadline: '2026-06-08 23:59:59'
+  deadline: '2026-06-15 23:59:59'
+  timezone: UTC-12
+  place: Sendai, Japan
+  date: November, 16-18, 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  sub: XR
