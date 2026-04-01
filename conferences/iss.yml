@@ -50,3 +50,15 @@
   timezone: UTC-12
   place: N/A (conference postponed to 2026)
   sub: HCI
+
+  - title: ISS (Summer round)
+  year: 2026
+  id: iss26b
+  link: https://iss.acm.org/2026/authors/papers/
+  deadline: '2026-07-22 23:59:59'
+  timezone: UTC-12
+  place: Turin, Italy
+  date: November, 23-26, 2026
+  start: 2026-11-23
+  end: 2026-11-26
+  sub: HCI
