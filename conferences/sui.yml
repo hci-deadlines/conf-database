@@ -33,3 +33,15 @@
   start: 2025-11-10
   end: 2025-11-11
   sub: HCI
+
+- title: SUI
+  year: 2026
+  id: sui26
+  link: https://sui.acm.org/2026/call-for-papers/
+  deadline: '2026-05-29 23:59:59'
+  timezone: UTC-12
+  place: Bari, Italy
+  date: October, 10-11, 2026
+  start: 2026-10-10
+  end: 2026-10-11
+  sub: HCI
