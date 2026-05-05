@@ -1,4 +1,17 @@
 - title: IUI
+  year: 2027
+  id: iui27
+  link: https://iui.acm.org/2027/call-for-papers/
+  deadline: '2026-08-20 23:59:59'
+  abstract_deadline: '2026-08-13 23:59:59'
+  timezone: UTC-12
+  place: Helsinki, Finland
+  date: February 8-11, 2027
+  start: 2027-02-08
+  end: 2027-02-11
+  sub: HCI
+
+- title: IUI
   year: 2026
   id: iui26
   link: https://iui.hosting.acm.org/2026/call-for-papers/
