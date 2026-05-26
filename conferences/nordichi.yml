@@ -1,13 +1,13 @@
 - title: NordiCHI
   year: 2026
-  id: nordichi22
+  id: nordichi26
   full_name: Nordic Conference on Human-Computer Interaction
   link: https://sites.uwasa.fi/nordichi2026/
   deadline: 2026-04-23 23:59
   abstract_deadline: 2026-04-16 23:59
   timezone: UTC-12
   place: Vaasa, Finland
-  date: October, 3-4, 2026
-  start: 2026-10-3
-  end: 2026-10-4
+  date: October, 3-7, 2026
+  start: 2026-10-03
+  end: 2026-10-07
   sub: HCI
