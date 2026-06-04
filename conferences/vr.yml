@@ -42,7 +42,7 @@
   sub: XR
 
 - title: IEEE VR
-  year: 2026
+  year:  2026
   id: ieeevr2026
   full_name: IEEE Conference on Virtual Reality and 3D User Interfaces
   link: https://ieeevr.org/2026/contribute/papers/
@@ -54,3 +54,18 @@
   start: 2026-03-21
   end: 2026-03-25
   sub: XR
+
+- title: IEEE VR
+  year: 2027
+  id: ieeevr2027
+  full_name: IEEE Conference on Virtual Reality and 3D User Interfaces
+  link: https://ieeevr.org/2027/
+  deadline: '2026-08-31 23:59:59'
+  abstract_deadline: '2026-08-24 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: February, 27 - March, 3, 2027
+  start: 2027-02-27
+  end: 2027-03-03
+  sub: XR
+  note: Full CFP link not yet active
