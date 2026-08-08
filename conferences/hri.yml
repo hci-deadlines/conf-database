@@ -47,3 +47,16 @@
   start: 2026-03-16
   end: 2026-03-19
   sub: HRI
+
+- title: HRI
+  year: 2027
+  id: hri27
+  link: https://humanrobotinteraction.org/2027/
+  deadline: '2026-09-18 23:59:59'
+  abstract_deadline: '2026-09-11 23:59:59'
+  timezone: UTC-12
+  place: Santa Clara, California, USA
+  date: March, 8-12, 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  sub: HRI
