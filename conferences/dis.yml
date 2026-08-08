@@ -49,3 +49,17 @@
   start: 2026-06-13
   end: 2026-06-17
   sub: DES
+
+- title: DIS
+  year: 2027
+  id: dis27
+  link: https://dis.acm.org/2027/
+  deadline: '2027-01-18 23:59:59'
+  abstract_deadline: '2027-01-11 23:59:59'
+  timezone: UTC-12
+  place: Stockholm, Sweden
+  date: June, 28 - July, 2, 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  sub: DES
+  note: Provisional submission dates
