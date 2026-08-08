@@ -49,3 +49,16 @@
   start: 2025-11-02
   end: 2025-11-07
   sub: VIS
+
+- title: VIS
+  year: 2026
+  id: vis26
+  link: https://ieeevis.org/year/2026/welcome/
+  deadline: '2026-03-31 23:59:59'
+  abstract_deadline: '2026-03-21 23:59:59'
+  timezone: UTC-12
+  place: Boston, Massachusetts, USA
+  date: November, 9-13, 2026
+  start: 2026-11-09
+  end: 2026-11-13
+  sub: VIS
