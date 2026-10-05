@@ -18,7 +18,7 @@ To add or update a deadline:
    | `sub` category | Subject it corresponds to            |
    | -------------- | ------------------------------------ |
    | HCI            | Human-Computer Interaction           |
-   | AI+HCI         | Articial Intelligence and AI         |
+   | AI             | Articial Intelligence and AI         |
    | CSCW           | Computer-supported cooperative work  |
    | DES            | Design                               |
    | HAP            | Haptics                              |
@@ -48,13 +48,19 @@ To add or update a deadline:
   end: YYYY-MM-DD
   paperslink: link-to-full-paper-list.com
   pwclink: link-to-papers-with-code.com
-  sub: HCI
+  sub: ['HCI', 'AI']
   note: Important
 ```
 
-The field `note` should be under 80 characters.
+The field `sub` can contain one or multiple options:
 
-7. Send a pull request
+```yaml
+sub: 'HCI'
+# or
+sub: ['HCI', 'AI']
+```
+
+1. Send a pull request
 
 ## License
 
